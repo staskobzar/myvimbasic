@@ -68,3 +68,4 @@ set background=dark " When set to "dark", Vim will try to use colors that look
  
 filetype plugin indent on
 syntax on
+set modeline
