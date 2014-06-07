@@ -1,3 +1,3 @@
 cd ~
 git clone git@github.com:staskobzar/myvimbasic.git
-ln -s ~/vimrc ~/.vimrc
+ln -s ~/myvimbasic/vimrc ~/.vimrc
