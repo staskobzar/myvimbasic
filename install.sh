@@ -1,5 +1,5 @@
 cd ~
-git clone https://raw.githubusercontent.com/staskobzar/myvimbasic/master/install.sh
+git clone https://github.com/staskobzar/myvimbasic.git
 ln -s ~/myvimbasic/vimrc ~/.vimrc
 mkdir -p ~/.vim/syntax
 cp ~/myvimbasic/openser.vim ~/.vim/syntax/
