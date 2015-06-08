@@ -6,3 +6,7 @@ wget -O ~/.vim/syntax/opensips.vim https://raw.githubusercontent.com/OpenSIPS/op
 if [ $? -gt 0 ] ; then
   cp ~/myvimbasic/opensips.vim ~/.vim/syntax/
 fi
+
+# status line
+mkdir ~/.vim/plugin/
+cp ~/myvimbasic/neatstatus.vim ~/.vim/plugin/

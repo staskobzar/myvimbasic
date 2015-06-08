@@ -69,3 +69,10 @@ set background=dark " When set to "dark", Vim will try to use colors that look
 filetype plugin indent on
 syntax on
 set modeline
+
+" Color schema
+colorscheme default
+
+" Always display status line
+set laststatus=2
+
