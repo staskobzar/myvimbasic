@@ -1,5 +1,5 @@
 cd ~
-aptitude -y install git vim curl 
+# aptitude -y install git vim curl 
 git clone https://github.com/staskobzar/myvimbasic.git
 ln -s ~/myvimbasic/vimrc ~/.vimrc
 mkdir -p ~/.vim/syntax
